@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: cadetblue;
+}
+p{
+    color: darkblue;
+    font-weight: 100;
+    font-size: 15px;
+    margin: 20px;
+}
+#demo{
+    color: darkgreen;
+}
+.demo1{
+    color: firebrick;
+    border-style: dotted;
+    border-color: ghostwhite;
+}
+input{
+    color: orangered;
+    font-weight: 100;
+}
